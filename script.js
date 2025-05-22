@@ -15,7 +15,6 @@ console.log(doggieAge)
  result.innerHTML= `Your doggie is ${doggieAge} years old in human years!`;
 
   
-  
 }
 
 
